@@ -1,0 +1,15 @@
+{
+  "anthropic_api_key": "your_anthropic_api_key_here",
+  "google_credentials_path": "credentials.json",
+  "base_folder_id": "your_google_drive_base_folder_id_here",
+  "from_email": "your-email@company.com",
+  "internal_notification_emails": [
+    "team@company.com",
+    "manager@company.com"
+  ],
+  "company_name": "Your Company Name",
+  "signature_name": "Your Name",
+  "signature_title": "Your Title",
+  "phone_number": "Your Phone Number",
+  "support_url": "https://your-website.com/contact"
+}
